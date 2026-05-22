@@ -1,4 +1,4 @@
-# CISC121 Final Project – Binary Search Visualization
+ Binary Search Visualization
 
 This project is an interactive visualization of the Binary Search algorithm built using Python and the Gradio library. The user can enter a list of numbers and a target value, and the app shows each step of the binary search process in a clear and educational way.
 
